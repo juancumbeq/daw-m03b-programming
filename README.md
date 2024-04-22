@@ -14,8 +14,7 @@ La función de programación de aplicaciones de propósito general en lenguajes 
   - El almacenamiento y recuperación de información en sistemas gestores de bases de datos relacionales y orientados a objetos.
   
 Las actividades profesionales asociadas a esta función se aplican en: 
-  - El desarrollo y la adaptación de programas informáticos de
-propósito general en lenguajes orientados a objetos.
+  - El desarrollo y la adaptación de programas informáticos de propósito general en lenguajes orientados a objetos.
 
 <br>
 
@@ -44,3 +43,8 @@ propósito general en lenguajes orientados a objetos.
     - Diseño de programas con lenguajes de programación orientados a objetos para la gestión de bases de datos orientadas a objetos.
 
 <br>
+<br>
+
+## Autor
+
+Este proyecto fue desarrollado por Juan Cumbe. Si tienes alguna pregunta o sugerencia sobre el proyecto, no dudes en contactarme a través de [e-mail](mailto:hello@juancumbe.com) o mi perfil de [Linkedin](https://www.linkedin.com/in/juancumbeq/). 😊
