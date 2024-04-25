@@ -186,6 +186,8 @@ System.out.println(line);
   - Tienen un único punto de entrada y un único punto de salida.
   - Están compuestas por instrucciones o por otras estructuras de control.
 
+<br>
+
 #### Categorías
 
   - Estructura Secuencial
@@ -197,13 +199,15 @@ System.out.println(line);
   <img src="https://github.com/juancumbeq/daw-m03b-programming/blob/main/uf1/images/EstructurasCategorias.png?raw=true" width= "19%" alt="estructura de proyecto JAVA">
 </p>
 
-#### Sintaxis estructuras de control Java - Estructuras de selección
+<br>
+
+#### Sintaxis estructuras de control Java - Estructuras de selección
 
 <p align="center">
   <img src="https://github.com/juancumbeq/daw-m03b-programming/blob/main/uf1/images/EstructurasSeleccion.png?raw=true" width= "19%" alt="estructura de proyecto JAVA">
 </p>
 
-
+[ver archivo](https://github.com/juancumbeq/daw-m03a-programming/blob/main/uf3/code/01_EjercicioOpcionalPT1.cs)
 
 
 
