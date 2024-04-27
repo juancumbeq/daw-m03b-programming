@@ -41,7 +41,7 @@
 #### Estructura de un proyecto POO
 
 <p align="center">
-  <img src="https://github.com/juancumbeq/daw-m03b-programming/blob/main/uf1/images/EstructuraProyectoJava.png?raw=true" width= "19%" alt="estructura de proyecto JAVA">
+  <img src="https://github.com/juancumbeq/daw-m03b-programming/blob/main/uf4/images/EstructuraProyectoJava.png?raw=true" width= "99%" alt="estructura de proyecto JAVA">
 </p>
 
 <br>
@@ -49,7 +49,7 @@
 #### Estructura de un programa JAVA
 
 <p align="center">
-  <img src="https://github.com/juancumbeq/daw-m03b-programming/blob/main/uf1/images/EstructuraProgramaJava.png?raw=true" width= "19%" alt="estructura de proyecto JAVA">
+  <img src="https://github.com/juancumbeq/daw-m03b-programming/blob/main/uf4/images/EstructuraProgramaJava.png?raw=true" width= "99%" alt="estructura de proyecto JAVA">
 </p>
 
 <br>
@@ -132,7 +132,7 @@
 ## Ámbito de variables
 
 <p align="center">
-  <img src="https://github.com/juancumbeq/daw-m03b-programming/blob/main/uf1/images/AmbitoVariables.png?raw=true" width= "19%" alt="estructura de proyecto JAVA">
+  <img src="https://github.com/juancumbeq/daw-m03b-programming/blob/main/uf4/images/AmbitoVariables.png?raw=true" width= "99%" alt="estructura de proyecto JAVA">
 </p>
 
 <br>
@@ -141,7 +141,7 @@
 ## Operadores aritméticos y lógicos
 
 <p align="center">
-  <img src="https://github.com/juancumbeq/daw-m03b-programming/blob/main/uf1/images/OperadoresAritmeticosLogicos.png?raw=true" width= "19%" alt="estructura de proyecto JAVA">
+  <img src="https://github.com/juancumbeq/daw-m03b-programming/blob/main/uf4/images/OperadoresAritmeticosLogicos.png?raw=true" width= "99%" alt="estructura de proyecto JAVA">
 </p>
 
 <br>
@@ -173,7 +173,7 @@ System.out.println(line);
 #### Caracteres de escape
 
 <p align="center">
-  <img src="https://github.com/juancumbeq/daw-m03b-programming/blob/main/uf1/images/CaracteresEscape.png?raw=true" width= "19%" alt="estructura de proyecto JAVA">
+  <img src="https://github.com/juancumbeq/daw-m03b-programming/blob/main/uf4/images/CaracteresEscape.png?raw=true" width= "99%" alt="estructura de proyecto JAVA">
 </p>
 
 <br>
@@ -196,7 +196,7 @@ System.out.println(line);
   - Instrucciones de salto
 
 <p align="center">
-  <img src="https://github.com/juancumbeq/daw-m03b-programming/blob/main/uf1/images/EstructurasCategorias.png?raw=true" width= "19%" alt="estructura de proyecto JAVA">
+  <img src="https://github.com/juancumbeq/daw-m03b-programming/blob/main/uf4/images/EstructurasCategorias.png?raw=true" width= "99%" alt="estructura de proyecto JAVA">
 </p>
 
 <br>
@@ -204,15 +204,26 @@ System.out.println(line);
 #### Sintaxis estructuras de control Java - Estructuras de selección
 
 <p align="center">
-  <img src="https://github.com/juancumbeq/daw-m03b-programming/blob/main/uf1/images/EstructurasSeleccion.png?raw=true" width= "19%" alt="estructura de proyecto JAVA">
+  <img src="https://github.com/juancumbeq/daw-m03b-programming/blob/main/uf4/images/EstructurasSeleccion.png?raw=true" width= "99%" alt="estructura de proyecto JAVA">
 </p>
 
-[ver archivo](https://github.com/juancumbeq/daw-m03a-programming/blob/main/uf3/code/01_EjercicioOpcionalPT1.cs)
+  - Ejemplo de uso: [ver archivo](https://github.com/juancumbeq/daw-m03b-programming/blob/main/uf4/code/01_EjemploClase1.cs)
 
+<br>
 
+#### Sintaxis estructuras de control Java - Estructuras de repetición
 
+<p align="center">
+  <img src="https://github.com/juancumbeq/daw-m03b-programming/blob/main/uf4/images/EstructurasRepeticion.png?raw=true" width= "99%" alt="estructura de proyecto JAVA">
+</p>
 
-
+  - Ejemplo de uso:
+    - Realiza la Clase EstructurasControl2, que muestre los "n" primeros valores de la secuenca de Fibonacci; siendo "n" un número entero llamado "num"; qué es introducido por consola.
+      - 
+  
+  
+  
+  [ver archivo](https://github.com/juancumbeq/daw-m03b-programming/blob/main/uf4/code/02_EjemploClase2.cs)
 
 
 
