@@ -78,5 +78,29 @@ public class EjemploClase1 {
 		System.out.println("\n********** EJEMPLO OPERADOR CONDICIONAL (: ? :) ***********************");
 		System.out.println("Esta UF está: " + (notaFinal >= 5 ? "Aprobado" : "Suspenso"));
 	}
-
 }
+
+
+// *********************** EJEMPLO SECUENCIAL *****************************
+// Introduce tu la nota de la evaluación continua
+// 7
+// Introduce tu nota del exámen
+// 9
+// Números introducidos7 y 9
+// 7 + 9 = 16
+// 7 - 9 = -2
+// 7 * 9 = 63
+
+// *********************** EJEMPLO CONDICIONAL SIMPLE ***********************
+// Enhorabuena, hay que calcular la media ponderada con la nota de la 
+// Evaluación Continua
+
+// *********************** EJEMPLO CONDICIONAL DOBLE ***********************
+// Enhorabuena, tu nota en esta UF es: 8.2
+
+// ********** EJEMPLO CONDICIONAL MULTIPLE: IF ANIDADOS ***********************
+// Notable
+
+// ********** EJEMPLO OPERADOR CONDICIONAL (: ? :) ***********************
+// Esta UF está: Aprobado
+

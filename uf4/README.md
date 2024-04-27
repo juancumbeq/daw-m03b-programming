@@ -214,20 +214,33 @@ System.out.println(line);
 #### Sintaxis estructuras de control Java - Estructuras de repetición
 
 <p align="center">
-  <img src="https://github.com/juancumbeq/daw-m03b-programming/blob/main/uf4/images/EstructurasRepeticion.png?raw=true" width= "99%" alt="estructura de proyecto JAVA">
+  <img src="https://github.com/juancumbeq/daw-m03b-programming/blob/main/uf4/images/EstructurasRepeticipn.png?raw=true" width= "99%" alt="estructura de proyecto JAVA">
 </p>
 
   - Ejemplo de uso:
     - Realiza la Clase EstructurasControl2, que muestre los "n" primeros valores de la secuenca de Fibonacci; siendo "n" un número entero llamado "num"; qué es introducido por consola.
-      - 
-  
-  
-  
-  [ver archivo](https://github.com/juancumbeq/daw-m03b-programming/blob/main/uf4/code/02_EjemploClase2.cs)
+      - La secuencia de Fibinacci es una sucesión de números en la que cada término se obtiene sumando los dos anteriores: 0, 1, 2, 3, 5, 8, 13, 21, 34, etc.
+      - La secuencia de Fibonacci tiene muchas aplicaciones en matemáticas y ciencias naturales, así como en la teoría de juegos y la criptografía.
+      - La proporción áurea es una relación matemática entre dos cantidades en la que la proporción  de la suma de ambas a la mayor de las dos es igual a la proporción de la mayor a la menor.
 
+[ver archivo](https://github.com/juancumbeq/daw-m03b-programming/blob/main/uf4/code/02_EjemploClase2.cs)
 
+<br>
+<br>
 
+## Ejercicio 1
 
+  - Realiza la clase MostrarTableroConsola, que muestre el "tablero" de la imagen; con las siguientes especificaciones:
+
+    - Directamente desde el método main.
+    - Solo puede tener declaradas dos variables enteras: fila y columna.
+    - No está permitido el uso de estructuras de seleccion (solo un "if" anidado).
+
+<p align="center">
+  <img src="https://github.com/juancumbeq/daw-m03b-programming/blob/main/uf4/images/Tablero.png?raw=true" width= "45%" alt="estructura de proyecto JAVA">
+</p>
+
+[ver archivo](https://github.com/juancumbeq/daw-m03b-programming/blob/main/uf4/code/02_EjemploClase2.cs)
 
 
 
