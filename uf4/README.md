@@ -49,7 +49,7 @@
 #### Estructura de un programa JAVA
 
 <p align="center">
-  <img src="https://github.com/juancumbeq/daw-m03b-programming/blob/main/uf4/images/EstructuraProgramaJava.png?raw=true" width= "99%" alt="estructura de proyecto JAVA">
+  <img src="https://github.com/juancumbeq/daw-m03b-programming/blob/main/uf4/images/EstructuraProgramaJava.png?raw=true" width= "99%" alt="estructura de programa JAVA">
 </p>
 
 <br>
@@ -132,7 +132,7 @@
 ## Ámbito de variables
 
 <p align="center">
-  <img src="https://github.com/juancumbeq/daw-m03b-programming/blob/main/uf4/images/AmbitoVariables.png?raw=true" width= "99%" alt="estructura de proyecto JAVA">
+  <img src="https://github.com/juancumbeq/daw-m03b-programming/blob/main/uf4/images/AmbitoVariables.png?raw=true" width= "99%" alt="ámbito variables">
 </p>
 
 <br>
@@ -141,7 +141,7 @@
 ## Operadores aritméticos y lógicos
 
 <p align="center">
-  <img src="https://github.com/juancumbeq/daw-m03b-programming/blob/main/uf4/images/OperadoresAritmeticosLogicos.png?raw=true" width= "99%" alt="estructura de proyecto JAVA">
+  <img src="https://github.com/juancumbeq/daw-m03b-programming/blob/main/uf4/images/OperadoresAritmeticosLogicos.png?raw=true" width= "99%" alt="operadores aritmetico lógicos">
 </p>
 
 <br>
@@ -173,7 +173,7 @@ System.out.println(line);
 #### Caracteres de escape
 
 <p align="center">
-  <img src="https://github.com/juancumbeq/daw-m03b-programming/blob/main/uf4/images/CaracteresEscape.png?raw=true" width= "99%" alt="estructura de proyecto JAVA">
+  <img src="https://github.com/juancumbeq/daw-m03b-programming/blob/main/uf4/images/CaracteresEscape.png?raw=true" width= "99%" alt="caracteres de escape">
 </p>
 
 <br>
@@ -196,7 +196,7 @@ System.out.println(line);
   - Instrucciones de salto
 
 <p align="center">
-  <img src="https://github.com/juancumbeq/daw-m03b-programming/blob/main/uf4/images/EstructurasCategorias.png?raw=true" width= "99%" alt="estructura de proyecto JAVA">
+  <img src="https://github.com/juancumbeq/daw-m03b-programming/blob/main/uf4/images/EstructurasCategorias.png?raw=true" width= "99%" alt="categorias de estructuras">
 </p>
 
 <br>
@@ -204,7 +204,7 @@ System.out.println(line);
 #### Sintaxis estructuras de control Java - Estructuras de selección
 
 <p align="center">
-  <img src="https://github.com/juancumbeq/daw-m03b-programming/blob/main/uf4/images/EstructurasSeleccion.png?raw=true" width= "99%" alt="estructura de proyecto JAVA">
+  <img src="https://github.com/juancumbeq/daw-m03b-programming/blob/main/uf4/images/EstructurasSeleccion.png?raw=true" width= "99%" alt="estructura de seleccion">
 </p>
 
   - Ejemplo de uso: [ver archivo](https://github.com/juancumbeq/daw-m03b-programming/blob/main/uf4/code/01_EjemploClase1.cs)
@@ -214,7 +214,7 @@ System.out.println(line);
 #### Sintaxis estructuras de control Java - Estructuras de repetición
 
 <p align="center">
-  <img src="https://github.com/juancumbeq/daw-m03b-programming/blob/main/uf4/images/EstructurasRepeticipn.png?raw=true" width= "99%" alt="estructura de proyecto JAVA">
+  <img src="https://github.com/juancumbeq/daw-m03b-programming/blob/main/uf4/images/EstructurasRepeticion.png?raw=true" width= "99%" alt="estructura de repeticion">
 </p>
 
   - Ejemplo de uso:
@@ -237,10 +237,42 @@ System.out.println(line);
     - No está permitido el uso de estructuras de seleccion (solo un "if" anidado).
 
 <p align="center">
-  <img src="https://github.com/juancumbeq/daw-m03b-programming/blob/main/uf4/images/Tablero.png?raw=true" width= "45%" alt="estructura de proyecto JAVA">
+  <img src="https://github.com/juancumbeq/daw-m03b-programming/blob/main/uf4/images/Tablero.png?raw=true" width= "45%" alt="tablero">
 </p>
 
-[ver archivo](https://github.com/juancumbeq/daw-m03b-programming/blob/main/uf4/code/02_EjemploClase2.cs)
+[ver archivo](https://github.com/juancumbeq/daw-m03b-programming/blob/main/uf4/code/03_MostrarTableroConsola_EX1.cs)
+
+<br>
+<br>
+
+## Ejercicio 2
+
+  - Realizar la clase TableroAjedrezConsola que muestra un tablero de ajedrez por consola. Los requisitos son:
+    - La clase se llama TableroAjedrezConsola.
+    - Realizarlo dentro del métod main de la clase.
+    - No permitido crear funciones, métodos ni procedimientos.
+    - 64 casillas, colores blanco y negro. Casilla blanca abajo derecha.
+    - Para el cuadro negro hay que utilizar el carácter ASCII.
+    - Obligatorio imprimir las casillas de dos en dos (casilla blanca y casilla negra, o viceversa).
+
+<p align="center">
+  <img src="https://github.com/juancumbeq/daw-m03b-programming/blob/main/uf4/images/Tablero.png?raw=true" width= "45%" alt="tablero">
+</p>
+
+[ver archivo](https://github.com/juancumbeq/daw-m03b-programming/blob/main/uf4/code/04_TableroAjedrexConsola_EX2.cs)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
