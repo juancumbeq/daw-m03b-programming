@@ -262,7 +262,22 @@ System.out.println(line);
 [ver archivo](https://github.com/juancumbeq/daw-m03b-programming/blob/main/uf4/code/04_TableroAjedrexConsola_EX2.cs)
 
 
+## Ejercicios repaso
 
+  1. Programa que pide al usuario introducir un número y determina si es par o impar.
+  [ver archivo](https://github.com/juancumbeq/daw-m03b-programming/blob/main/uf4/code/05_EjercicioRepaso1.cs)
+
+  2. Programa que pide al usuario introducir un número y calcula su factorial utilizando un bucle "for".
+  [ver archivo](https://github.com/juancumbeq/daw-m03b-programming/blob/main/uf4/code/06_EjercicioRepaso2.cs)
+
+  3. Programa que pide al usuario introducir una cadena de texto y determina si es palíndromo (es decir, si se lee igual de izquierda a derecha que de derecha a izquierda).
+  [ver archivo](https://github.com/juancumbeq/daw-m03b-programming/blob/main/uf4/code/07_EjercicioRepaso3.cs)
+
+  4. Programa que pide al usuario introducir un número y muestra su tabla de multiplicar utilizando un bucle "while".
+  [ver archivo](https://github.com/juancumbeq/daw-m03b-programming/blob/main/uf4/code/08_EjercicioRepaso4.cs)
+
+  5. Programa que simula el lanzamiento de un dado 100 veces y cuenta cuántas veces aparece cada número utilizando un bucle "for" y un array.
+  [ver archivo](https://github.com/juancumbeq/daw-m03b-programming/blob/main/uf4/code/09_EjercicioRepaso5.cs)
 
 
 

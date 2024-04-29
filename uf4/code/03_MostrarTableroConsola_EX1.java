@@ -1,3 +1,9 @@
+  // - Realiza la clase MostrarTableroConsola, que muestre el "tablero" de la imagen; con las siguientes especificaciones:
+
+  //   - Directamente desde el método main.
+  //   - Solo puede tener declaradas dos variables enteras: fila y columna.
+  //   - No está permitido el uso de estructuras de seleccion (solo un "if" anidado).
+
 package main;
 
 public class MostrarTableroConsola_EX1 {
